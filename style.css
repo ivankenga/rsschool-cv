@@ -1,0 +1,36 @@
+body{
+background-color: #999;
+max-width: 1024px;
+margin: 0 auto;
+}
+
+.text_resume h2{
+color: #fff;    
+font-family: sans-serif;
+text-align: center;
+}
+
+.my_foto img {
+height: 250px;    
+width: 250px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.education h2, li{
+color: #fff;    
+font-family: sans-serif;
+text-align: center;   
+}
+
+hr{
+color: black;
+size: 10px;  
+}
+
+.experience_skills h2, li{
+color: #fff;    
+font-family: sans-serif;
+text-align: center;     
+}
